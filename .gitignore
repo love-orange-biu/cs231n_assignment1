@@ -1,0 +1,6 @@
+# 项目排除路径
+/.venv/
+.DS_Store
+.venv/
+/cs231n/datasets/
+/cs231n/saved/
